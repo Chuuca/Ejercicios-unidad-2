@@ -1,2 +1,2 @@
-# Ejercicios-unidad-2
-ejercicios de la segunda unidad de la materia Desarrollo de Aplicaciones Web
+# Ejercicios-cuatrimestre
+ejercicios hechos a lo largo del cuatrimestre de la materia Desarrollo de Aplicaciones Web
